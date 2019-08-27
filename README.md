@@ -11,10 +11,10 @@ Licensing, Authors, and Acknowledgements
 <a id='Installation'></a>
 # Installation:
 Python versions 3.*.
-- * pandas
-- * NumPy
-- * Matplotlib
-- * csv
+ * pandas
+ * NumPy
+ * Matplotlib
+ * csv
 
 <a id='Project Motivation'></a>
 # Project Motivation:
