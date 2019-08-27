@@ -48,7 +48,7 @@ The outcomes after analyzing:
 ![](image/q3.jpg)
 ![](image/q5.jpg)
 
-
+Take a look at this [link](https://github.com/faro7ah/FBI-gun-project-DAND/blob/master/FBI%20Gun%20data%20project%20%20DAND.ipynb) for more details.
 
 
 
