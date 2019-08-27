@@ -44,9 +44,10 @@ To complete this project, you will use Jupyter Notebooks through a workspace in 
 <a id='Results'></a>
 # Results:
 The outcomes after analyzing:
-[]!(image/q1.jpg)
-[]!(image/q3.jpg)
-[]!(image/q5.jpg)
+![](image/q1.jpg)
+![](image/q3.jpg)
+![](image/q5.jpg)
+
 
 
 
